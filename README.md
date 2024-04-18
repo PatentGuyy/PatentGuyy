@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patentguyy&label=Profile%20views&color=0e75b6&style=flat" alt="patentguyy" /> </p>
 
-- 🔭 I’m currently working on [Kachua Shet Discord Bot](https://tinyrul.com/KachuaWeb)
+- 🔭 I’m currently working on [Kachua Shet Discord Bot](https://tinyurl.com/KachuaWeb)
 
 - 🌱 I’m currently learning **Python**
 
