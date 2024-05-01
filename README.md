@@ -1,4 +1,4 @@
-[![MasterHead](blob:https://www.simpleimageresizer.com/0f0acf32-c6cc-469f-b326-9df34ef1ceff)](https://github.com/patentguyy)
+[![MasterHead](https://s6.ezgif.com/tmp/ezgif-6-9b79381480.gif)](https://github.com/patentguyy)
 <h1 align="center">Hi 👋, I'm PatentGuy</h1>
 <h3 align="center">A passionate Minecraft Server, Discord Bot developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
