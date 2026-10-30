@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/patentguyy](https://github.com/patentguyy)
 
-- 📫 How to reach me **nived3272@gmail.com**
+- 📫 How to reach me **email@patentguy.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
