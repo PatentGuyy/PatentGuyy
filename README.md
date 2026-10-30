@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patentguyy&label=Profile%20views&color=0e75b6&style=flat" alt="patentguyy" /> </p>
 
-- 🔭 I’m currently working on [Zoniex 2.0 Discord Bot](https://bot.zoniex.me)
+- 🔭 I’m currently working on [My Portfolio](https://patentguy.dev)
 
 - 🌱 I’m currently learning **Python**
 
